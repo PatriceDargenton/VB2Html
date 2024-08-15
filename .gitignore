@@ -396,3 +396,18 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Dossiers à ignorer
+Archives
+Bak
+Tmp
+Codes
+
+*.bat
+*.exe.config
+*.vbproj.ini
+VB2Html_*.txt
+VB2Html.xml
+VB2Html.exe
+VB2Html*.vbproj.html
+VB2Html.html
